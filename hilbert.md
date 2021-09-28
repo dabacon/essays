@@ -1,6 +1,8 @@
 # Who's Afraid of the Church of the Larger Hilbert Space?
 
-*Status: Draft*
+Length: *1465 words, approximately 6 minutes*
+
+Status: *Draft*
 
 What, exactly, is a measurement?  This is a seemly innocuous question.  Obviously,
 you get your tape measure out, wrap it round you waist, and count off how many inches
@@ -48,13 +50,19 @@ mysterious when encountering the measurement axiom. The measurement axiom is som
 how things become, how they transition into something more permanent, existing as
 *records* of *what happened*.
 
-There are a group of physicists, loosely we would call them quantum foundations researchers, who spend a lot of time thinking hard about quantum theory and what it
+There are a group of physicists, loosely we would call them quantum foundations 
+researchers, who spend a lot of time thinking hard about quantum theory and what it
 means or what it tells us or how to live with quantum theory and not go insane.  What 
 is a measurement and how does it mesh with the other axioms of quantum theory is one 
-of the areas in which quantum founds folk have spent a lot of time investigating.  
-I've been lucky enough to work a bit on this back in my [younger days](https://arxiv.org/abs/quant-ph/0304076).  In my spare time, I still think a lot about this.  Nothing 
-says crank like being a software engineer thinking about the foundations of quantum 
-theory! People whose papers I will read whenever they come out include [Matthew Leifer](https://scirate.com/search?q=au:Leifer_M+in:quant-ph), [Robert Spekkens](https://scirate.com/search?utf8=%E2%9C%93&q=au%3ASpekkens_R+#results), [Chris Fuchs](https://scirate.com/search?q=au:Fuchs_C), and more.  Down those links is a lot of head scratching and some well earned moments of clarity.
+of the areas in which quantum founds folk have spent a lot of time investigating. I've 
+been lucky enough to work a bit on this back in my 
+[younger days](https://arxiv.org/abs/quant-ph/0304076). In my spare time, I still think 
+a lot about this.  Nothing says crank like being a software engineer thinking about the 
+foundations of quantum theory! People whose papers I will read whenever they come out 
+include [Matthew Leifer](https://scirate.com/search?q=au:Leifer_M+in:quant-ph), 
+[Robert Spekkens](https://scirate.com/search?utf8=%E2%9C%93&q=au%3ASpekkens_R+#results), 
+[Chris Fuchs](https://scirate.com/search?q=au:Fuchs_C), and more.  Down those links is a 
+lot of head scratching and some well earned moments of clarity.
 
 In reading that literature, and thinking about some of these problems myself, one 
 thing that strikes me is that there is a good deal of work in that arena which
