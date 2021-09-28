@@ -50,12 +50,13 @@ mysterious when encountering the measurement axiom. The measurement axiom is som
 how things become, how they transition into something more permanent, existing as
 *records* of *what happened*.
 
-There are a group of physicists, loosely we would call them quantum foundations researchers, who spend a lot of time thinking hard about quantum theory and what it
+There are a group of physicists, loosely we would call them quantum foundations 
+researchers, who spend a lot of time thinking hard about quantum theory and what it
 means or what it tells us or how to live with quantum theory and not go insane.  What 
 is a measurement and how does it mesh with the other axioms of quantum theory is one 
 of the areas in which quantum founds folk have spent a lot of time investigating. I've 
 been lucky enough to work a bit on this back in my 
-[younger days](https://arxiv.org/abs/quant-ph/0304076).  In my spare time, I still think 
+[younger days](https://arxiv.org/abs/quant-ph/0304076). In my spare time, I still think 
 a lot about this.  Nothing says crank like being a software engineer thinking about the 
 foundations of quantum theory! People whose papers I will read whenever they come out 
 include [Matthew Leifer](https://scirate.com/search?q=au:Leifer_M+in:quant-ph), 
