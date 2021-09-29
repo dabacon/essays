@@ -119,7 +119,7 @@ theory or see deeper into its interpretation have to overcome. They need to be
 able to deal with the case of everything being unitary (or possibly everything
 being a quantum operation). 
 
-So whose afraid of the Church of the Larger Hilbert Space? I think everyone who 
+So who's afraid of the Church of the Larger Hilbert Space? I think everyone who 
 wants to think about quantum theory in a theory that separates preparation, 
 dynamics, and measurement and studies them separately, should be scared.  One
 needs to respect the Church, that we can get much of what we do by working in
