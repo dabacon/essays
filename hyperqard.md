@@ -34,7 +34,7 @@ error-corrected quantum algorithms without saying the words "error correction" o
 
 5 points for using Grover to search a database.
 
-5 points for inventing a new number by which to compare qubit counts.
+5 points for every new metric designed to make you look better. 5 more points if that number is a just a renaming of a previous metric.
 
 10 points for solving NP-complete problems in polynomial time.
 
