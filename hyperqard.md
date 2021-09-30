@@ -22,11 +22,11 @@ If you have more criteria, submit a pull request!
 
 * 5 points for each reference to quantum computer's power arising from  "trying all solutions in parallel".
 
-* 5 points for each mention of quantum computers solving a major world issue, without a reference to how this might arise.  "We'll solve global warming by using our magic quantum computer."  5 more points if you can do this by just simulating the quantum computer on your laptop.
+* 5 points for each mention of quantum computers solving a major world issue, without a reference to how this might arise.  "We'll solve global warming by using our magic quantum computer."
 
 * 5 points for mistaking quantum correlations for classical shared randomness.
 
-* 5 points for every business problem solved which can be solved by a classical computer today faster, cheaper, and more robustly.
+* 5 points for every business problem solved which can be solved by a classical computer today faster, cheaper, and more robustly.  5 more points if you can do this by just simulating the quantum computer on your laptop.
 
 * 5 points for instantaneous faster than light communication.
 
