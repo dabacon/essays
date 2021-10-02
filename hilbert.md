@@ -74,7 +74,7 @@ how they correspond to the reality or unreality of the quantum state, contextual
 and quantum non-locality.  There is a lot to be said for this approach.  It leads 
 to Bell inequalities, Kochen-Specker experiments on contextuality, and results
 about the epistimic or non-epistimic nature of quantum theory.  But it does make
-a particular slight of hand, in that it does make one think about preparation, dynamics, 
+a particular sleight of hand, in that it does make one think about preparation, dynamics, 
 and measurement as sort of separate.
 
 Enter religion to the debate. In quantum information there is only one church and that 
