@@ -51,6 +51,9 @@ error-corrected quantum algorithms without saying the words "error correction" o
 * 10 points for claiming quantum computers are key to artificial general 
 intelligence without any backing for this claim.
 
+* 15 points for claiming quantum computers are key to solving humanity's most difficult problems,
+from climate change to aging, without any backing for these claims.
+
 * 15 points for solving PSPACE-complete problems in polynomial time.
 
 * 20 points for solving uncomputable problems in polynomial time.
