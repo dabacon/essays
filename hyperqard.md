@@ -21,8 +21,6 @@ If you have more criteria, submit a pull request!
 
 * 5 points for each reference to quantum computer's power arising from  "trying all solutions in parallel".  -3 points if you realize that means there are some universes where you do not solve the problem.
 
-* 5 points for each mention of quantum computers solving a major world issue, without a reference to how this might arise.  "We'll solve global warming by using our magic quantum computer."
-
 * 5 points for mistaking quantum correlations for classical shared randomness.
 
 * 5 points for every claim of a breakthrough in solving a business problem in a quantum experiment, when that problem can be solved by a classical computer today faster, cheaper, and/or more robustly.  5 more points if you can do this by just simulating the quantum computer on your laptop.  2 more points if that simulation can be done in Python.
@@ -52,6 +50,9 @@ error-corrected quantum algorithms without saying the words "error correction" o
 
 * 10 points for claiming quantum computers are key to artificial general 
 intelligence without any backing for this claim.
+
+* 10 points for claiming quantum computers are key to solving humanity's most difficult problems,
+from climate change to aging, without any backing for these claims.
 
 * 15 points for solving PSPACE-complete problems in polynomial time.
 
