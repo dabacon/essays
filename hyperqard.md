@@ -27,6 +27,8 @@ If you have more criteria, submit a pull request!
 
 * 5 points for every claim of a breakthrough in solving a business problem in a quantum experiment, when that problem can be solved by a classical computer today faster, cheaper, and/or more robustly.  5 more points if you can do this by just simulating the quantum computer on your laptop.  2 more points if that simulation can be done in Python.
 
+* 5 points for benchmarking against an inefficient classical algorithm.
+
 * 5 points for entanglement being used for instantaneous faster than light communication.
 
 * 5 points for every technology advance that really needs to be postfixed by "in this
@@ -46,7 +48,7 @@ error-corrected quantum algorithms without saying the words "error correction" o
 
 * 10 points for claiming quantum advantage without any proof.
 
-* 10 points for a claim of advantage without a [red team](https://en.wikipedia.org/wiki/Red_team) or any independent verification. 
+* 10 points for a claim of advantage without a [red team](https://en.wikipedia.org/wiki/Red_team) or any independent verification.
 
 * 10 points for claiming quantum computers are key to artificial general 
 intelligence without any backing for this claim.
