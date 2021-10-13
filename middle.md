@@ -178,7 +178,7 @@ excite out of the ground state, much in the same way that
 topological quantum systems do with many many more qubits.  One 
 interesting challenge of this approach is that one of the important
 properties of topological quantum computing is that there is a 
-constant energy gap, irregardless of system size.  But there is a 
+constant energy gap, regardless of system size.  But there is a 
 lot of wiggle room here, if we make a 9 qubit system, and have
 strong enough interactions, does this offer a gap that is large
 enough for protection?
