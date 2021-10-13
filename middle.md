@@ -58,8 +58,8 @@ substrate is the way quantum computing will be a technology. The main
 approach here is that of topological quantum computing, where qubits
 exist as a global protected state in a many-body quantum system. In 
 this approach the properties of the materials out of which one builds 
-the quantum computer are the key ingredient (just as semiconductors w
-here key to the transistor).
+the quantum computer are the key ingredient (just as semiconductors 
+were key to the transistor).
 
 Today, the brute force approach is ascendent, most of the companies that
 are trying to scale up quantum computing are on a path to brute force
