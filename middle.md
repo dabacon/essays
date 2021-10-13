@@ -1,17 +1,21 @@
 # Quantum Computing's Middle Way
 
+Length: *~2000 words, approximately 8 minutes*
+
+Status: *Draft*
+
 The crazy thing about computing is that there are so many ways to do it.
-One way is to use transistors like our modern CPUs, but systems as diverse 
+One way is to use transistors, like our modern CPUs, but systems as diverse 
 as strands of DNA, molecules, and 
 [Tinker Toys](http://ix.cs.uoregon.edu/~michaelh/110/ttoy/ttoy.html)
 can be made to compute.  Of course, you don't necessarily want to build a 
 computer out of Tinker Toys. The costs, power consumption, and mean time between
 failure make such a computer fairly useless as a *technology*.  As a toy, 
-of course, fantastic.
+of course, it is fantastic.
 
 Back when I was a graduate student (1997 to 2001, Go Bears!), it seemed
 like every week there was a paper published in Physical Review Letters showing
-that "hey my favorite quantum system can be made into a quantum computer".
+that "hey my favorite quantum system can be made into a quantum computer."
 There are also many ways to quantum compute!  But so far, what has been
 much harder is to find a quantum computing *technology*.
 
@@ -20,9 +24,10 @@ be far more suspectable to the effects of noise and imprecise control.
 This is not a fundamental reason.  We have known since the mid 1990s that
 there is a way to take systems that are noisy and which we cannot precisely
 control, and put them together into a machine where these issues are of
-a magnitude that they don't matter anymore.  This is the done using the theory 
-of fault-tolerant quantum computing, a prescription for the gadgetry necessary
-to reduce errors and increase control.  Long may fault-tolerance live, and
+a magnitude that they don't matter anymore (for a sufficient definition of
+not mattering).  This is the done using the theory of fault-tolerant 
+quantum computing, a prescription for the gadgetry necessary to reduce 
+errors and increase control.  Long may fault-tolerance live, and
 far may she sail!
 
 As far as technologies, most people segment quantum hardware by the different 
@@ -32,7 +37,7 @@ more  fundamental schism in quantum computing.  This is between the
 *brute forcers* and the *naturalists*.
 
 The brute force approach is essentially the idea that we already have our
-qubit substrate defined and it is "just" a matter of scaling these up.
+qubit substrate defined, and it is "just" a matter of scaling these up.
 With some amount of increase in gate fidelities and qubit lifetimes, brute
 force approaches will eventually execute fault-tolerant protocols and this
 will be the point where quantum computers become a technology.  Brute 
@@ -49,12 +54,12 @@ that are fault-tolerant without having to actively engineer
 fault-tolerant protocols.  In analogy with classical computing 
 where transistors are fault-tolerant because of the physics of how 
 they work, naturalists think that finding the correct fault-tolerant 
-substrate is the way quantum computing will be a technology.  
-The main approach here is that of topological quantum
-computing, where qubits exist as a global protected state in a 
-many-body quantum system. In this approach the properties of the 
-materials out of which one builds the quantum computer are the key
-ingredient (just as semiconductors where key to the transistor).
+substrate is the way quantum computing will be a technology. The main 
+approach here is that of topological quantum computing, where qubits
+exist as a global protected state in a many-body quantum system. In 
+this approach the properties of the materials out of which one builds 
+the quantum computer are the key ingredient (just as semiconductors w
+here key to the transistor).
 
 Today, the brute force approach is ascendent, most of the companies that
 are trying to scale up quantum computing are on a path to brute force
@@ -63,12 +68,12 @@ decade plus effort in topological quantum computing.
 
 It is uncontroversial to say that the naturalist approach, so far, 
 has not been successful.  There is currently no (publicly) known 
-working topological qubits that have done even small computations.  
+working topological qubits that have done even small computations.
 But is also pretty obvious that if there was a qubit that had the 
 properties predicted for topological quantum computing, that 
 technology would leap to the front of the pack for quantum computing 
 technologies.  Which is not to say that it would  obviously leapfrog 
-the brute force approach, as there are many complexities to what 
+the brute force approaches, as there are many complexities to what 
 makes a technology work than just the basic properties of the 
 topological quantum computer (cost, yield, power, etc.  All the stuff 
 companies leave off in their glossy investor presentations.)
@@ -141,12 +146,12 @@ is that while it is known that some models of many-body quantum
 physics give rise to the desired state of matter, it is very hard
 to go from this model to the real world.  Condensed matter systems
 are notoriously messy: they often have defects and disorder that
-makes the system you are trying to build, not exactly what the
-model should be.  It remains a real challenge to go from the theoretical
-model to physical systems that support the desired topological phase
-of matter.
+makes the system you are trying to build not exactly match the model
+you want.  It remains a real challenge to go from the theoretical
+model to experimental physical systems that support the desired 
+topological phase of matter.
 
-But on the other hand, we have the brute force approach, which has
+Contrasting with this, we have the brute force approach, which has
 shown tremendous ability to build qubits and perform small quantum
 algorithms on them. We know a lot now about how to engineer coherent
 quantum systems.  The middle way then says, well can we take that
@@ -183,10 +188,11 @@ compass model qubits), one thing we really didn't know was how to
 manipulate these systems in a manner similar to how the topological
 quantum computers set their own clock. But one day I was riding on a
 ski lift with Steve Flammia and Carl Caves, and I realized that 
-I had a big problem.  I wasn't getting papers rejected.  
-Was this an indication that I was playing it too safe?  So Steve
-agreed that we would work together and make sure we got papers that 
-were rejected. This lead to [Adiabatic Gate Teleportation](https://arxiv.org/abs/0905.0901),
+I had a big problem.  I wasn't getting papers rejected.  (Biggest
+humble brag ever here, could not resist.) Was this an indication that
+I was playing it too safe?  So Steve agreed that we would work together
+and make sure we got papers that were rejected. This lead to
+[Adiabatic Gate Teleportation](https://arxiv.org/abs/0905.0901),
 [Adiabatic Cluter State Quantum Computing](https://arxiv.org/abs/0912.2098),
 and [Adiabatic Topological Quantum Computing](https://arxiv.org/abs/1406.2690)
 (with C. Cesare, A. Landahl and A. Neels).  And yes some of these
@@ -207,5 +213,5 @@ eternal self, and annihilationism, the idea that the self is utterly
 annihilated at death.  (Apologies for the condensation of a much more
 nuanced and complicated concept into two short paragraphs.)  I will
 leave it as an exercise to the reader to map each of these to the
-bruter force and naturalist factions, but am hopeful that some 
-attention is given to the quantum middle way.
+brute force and naturalist factions, but am hopeful that some 
+attention can be given to the quantum middle way.

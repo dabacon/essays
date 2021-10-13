@@ -1,6 +1,6 @@
 # Who's Afraid of the Church of the Larger Hilbert Space?
 
-Length: *1465 words, approximately 6 minutes*
+Length: ~1500 words, approximately 6 minutes*
 
 Status: *Draft*
 
