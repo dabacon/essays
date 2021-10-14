@@ -122,7 +122,7 @@ something like a clock to keep track of this.  One can contrast
 this with classical transistors.  There are rising and falling signal 
 triggers the computations. CPUs have a clock which is distributed 
 to its computing elements and the rising and falling of that clock
-triggers the computation.  (Side note: an additionally difference being that 
+triggers the computation.  (Side note: an additional difference being that 
 in the classical computing world, the data moves across the device as the
 computation is enacted, whereas in quantum computing we most often
 bring the control to qubits fixed in space.)
