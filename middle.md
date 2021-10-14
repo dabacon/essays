@@ -25,15 +25,15 @@ This is not a fundamental reason.  We have known since the mid 1990s that
 there is a way to take systems that are noisy and which we cannot precisely
 control, and put them together into a machine where these issues are of
 a magnitude that they don't matter anymore (for a sufficient definition of
-not mattering).  This is the done using the theory of fault-tolerant 
+not mattering).  This is done using the theory of fault-tolerant 
 quantum computing, a prescription for the gadgetry necessary to reduce 
 errors and increase control.  Long may fault-tolerance live, and
 far may she sail!
 
 As far as technologies, most people segment quantum hardware by the different 
 substrates out of which one can build a quantum computer, superconducting 
-circuits, ions, electron or nuclear spins, photons, and more.  But there is an 
-more  fundamental schism in quantum computing.  This is between the 
+circuits, ions, electron or nuclear spins, photons, and more.  But there is a
+more fundamental schism in quantum computing.  This is between the 
 *brute forcers* and the *naturalists*.
 
 The brute force approach is essentially the idea that we already have our
@@ -41,7 +41,7 @@ qubit substrate defined, and it is "just" a matter of scaling these up.
 With some amount of increase in gate fidelities and qubit lifetimes, brute
 force approaches will eventually execute fault-tolerant protocols and this
 will be the point where quantum computers become a technology.  Brute 
-forcers don't necessary believe that there won't be necessary improvements 
+forcers don't necessarily believe that there won't be necessary improvements 
 and innovations to get to the fault-tolerant scaling regime (or at least 
 the non-hype-saturated brute forcers don't believe this).  But they do believe 
 that existing qubits or slight variations of these will be the
@@ -64,7 +64,7 @@ were key to the transistor).
 Today, the brute force approach is ascendent, most of the companies that
 are trying to scale up quantum computing are on a path to brute force
 their way to a technology.  The major exception to this is Microsoft's
-decade plus effort in topological quantum computing.  
+decade-plus effort in topological quantum computing.  
 
 It is uncontroversial to say that the naturalist approach, so far, 
 has not been successful.  There is currently no (publicly) known 
@@ -129,7 +129,7 @@ bring the control to qubits fixed in space.)
 
 What topological quantum computing offers is something similar. In
 one form of how to compute on topological quantum computers, one 
-can apply localized fields to a part of the system, and then then 
+can apply localized fields to a part of the system, and then 
 by adiabatically moving these fields around, one can enact a gate.
 The topological part of this is that the gate that is implemented 
 only depends on the space-time braid that moving such localized
