@@ -44,7 +44,7 @@ will be the point where quantum computers become a technology.  Brute
 forcers don't necessary believe that there won't be necessary improvements 
 and innovations to get to the fault-tolerant scaling regime (or at least 
 the non-hype-saturated brute forcers don't believe this).  But they do believe 
-that existing qubits or slight variations of these will be the the 
+that existing qubits or slight variations of these will be the
 qubits executing in fault-tolerant protocols of a future quantum 
 computing technology.
 
