@@ -21,12 +21,12 @@ much harder is to find a quantum computing *technology*.
 
 The primary reason for this is that our quantum technologies seem to
 be far more suspectable to the effects of noise and imprecise control.
-This is not a fundamental reason.  We have known since the mid 1990s that
+This is not a fundamental reason.  We have known since the mid-1990s that
 there is a way to take systems that are noisy and which we cannot precisely
 control, and put them together into a machine where these issues are of
 a magnitude that they don't matter anymore (for a sufficient definition of
 not mattering).  This is done using the theory of fault-tolerant 
-quantum computing, a prescription for the gadgetry necessary to reduce 
+quantum computing, a prescription for the gadgetry necessary to reduce
 errors and increase control.  Long may fault-tolerance live, and
 far may she sail!
 
@@ -48,7 +48,7 @@ that existing qubits or slight variations of these will be the
 qubits executing in fault-tolerant protocols of a future quantum 
 computing technology.
 
-The naturalist approach, on the other hand believes that not all qubits 
+The naturalist approach, on the other hand, believes that not all qubits 
 are created equal and that it is possible for there to exist qubits 
 that are fault-tolerant without having to actively engineer 
 fault-tolerant protocols.  In analogy with classical computing 
@@ -67,7 +67,7 @@ their way to a technology.  The major exception to this is Microsoft's
 decade-plus effort in topological quantum computing.  
 
 It is uncontroversial to say that the naturalist approach, so far, 
-has not been successful.  There is currently no (publicly) known 
+has not been successful.  There are currently no (publicly) known 
 working topological qubits that have done even small computations.
 But is also pretty obvious that if there was a qubit that had the 
 properties predicted for topological quantum computing, that 
@@ -84,7 +84,7 @@ systems, and yet we know that there should exist physical systems that
 are better qubits, one question to ask is whether there is some way in 
 which these two can be brought together.  Is there a quantum middle way?  
 
-Of course no essay asks a question like this in the middle of the essay
+Of course, no essay asks a question like this in the middle of the essay
 without believing that the answer is "yes".  What would this middle
 way look like?
 
@@ -92,11 +92,11 @@ To answer this it is useful to understand the two major advances
 presented by topological quantum computing. The first of these is that
 there exist realistic physical models whose ground states are quantum 
 error correcting code states, and these models also have an energy gap 
-between these states and their excited  states. This means, roughly, 
+between these states and their excited states. This means, roughly, 
 that if you could build a system that matches this physical model, 
-at a temperature well below the energy gap, the  quantum system can
+at a temperature well below the energy gap, the quantum system can
 be frozen into this ground state. Any quantum error will need to 
-overcome this energetic barrier to create an error. In  addition 
+overcome this energetic barrier to create an error. In addition 
 any small perturbative quantum error, even when spread out 
 over the entire system, does not change the properties of the ground 
 state.  This is the first lesson of topological quantum computing:
@@ -108,7 +108,7 @@ natural quantum computing systems, which is I think less widely
 appreciated, is the way in which one computes on these systems.
 If the information is encoded into the ground states, and any small
 local operation cannot disturb this information, how does one get
-at this information.  There are actually a variety of answers to 
+at this information?  There are actually a variety of answers to 
 this question, but one of the important facts about these methods is
 that they "set their own clock".
 
@@ -122,7 +122,7 @@ something like a clock to keep track of this.  One can contrast
 this with classical transistors.  There are rising and falling signal 
 triggers the computations. CPUs have a clock which is distributed 
 to its computing elements and the rising and falling of that clock
-triggers the computation.  (Side note: an additional difference being that 
+triggers the computation.  (Side note: an additional difference is that 
 in the classical computing world, the data moves across the device as the
 computation is enacted, whereas in quantum computing we most often
 bring the control to qubits fixed in space.)
@@ -138,8 +138,8 @@ moves.  In this sense, these systems "set their own clock", the
 rate of their gates is set by the rate of doing these braiding
 actions.  There are a variety of variations on this theme, for
 example using only measurements to enact the topological quantum
-computing, but similarly these allow one to not have to precisely
-track phase of one's qubits.
+computing, but similarly, these allow one to not have to precisely
+track the phase of one's qubits.
 
 One of the challenges of the topological approach to quantum computing
 is that while it is known that some models of many-body quantum
@@ -193,7 +193,7 @@ humble brag ever here, could not resist.) Was this an indication that
 I was playing it too safe?  So Steve agreed that we would work together
 and make sure we got papers that were rejected. This lead to
 [Adiabatic Gate Teleportation](https://arxiv.org/abs/0905.0901),
-[Adiabatic Cluter State Quantum Computing](https://arxiv.org/abs/0912.2098),
+[Adiabatic Cluster State Quantum Computing](https://arxiv.org/abs/0912.2098),
 and [Adiabatic Topological Quantum Computing](https://arxiv.org/abs/1406.2690)
 (with C. Cesare, A. Landahl and A. Neels).  And yes some of these
 got rejected!  For me it became clear that there were ways to 
@@ -215,3 +215,5 @@ nuanced and complicated concept into two short paragraphs.)  I will
 leave it as an exercise to the reader to map each of these to the
 brute force and naturalist factions, but am hopeful that some 
 attention can be given to the quantum middle way.
+
+
