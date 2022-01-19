@@ -8,10 +8,10 @@ What, exactly, is a measurement?  This is a seemly innocuous question.  Obviousl
 you get your tape measure out, wrap it round you waist, and count off how many inches
 you've added to your girth over the holiday season.  But in the world of quantum theory,
 the theory that seems to be the operating system of our universe, when exactly a 
-measurement occurs and it exactly what it is only very oddly defined. For our waist lines this could be a benefit, but as a scientific theory this is quite disconcerting.
+measurement occurs and it exactly what it is only very oddly defined. For our waistlines this could be a benefit, but as a scientific theory this is quite disconcerting.
 
 There are many ways to present quantum theory. For example, one approach is to
-start with wave functions and add the Schrodinger wave equation which governs the
+start with wave functions and add the Schrödinger wave equation which governs the
 time evolution of these wave functions. An equally valid starting point 
 emphasizes linear algebra (which my friend David Hogg likes to remind 
 us is [not an algebra](https://twitter.com/davidwhogg/status/1440105703692247042)).
@@ -23,16 +23,16 @@ rough paraphrases of these axioms, without the measurement axiom.
 * **Axiom 2** Observables are self-adjoint operators.
 * **Axiom 4** Dynamics of a state, evolution in time, is a unitary operator.
 * **Axiom 5** When you take two systems and form a composite, the state space of
-the composite system is the tensor product of the two system's Hilbert spaces.
+the composite system is the tensor product of the two constituent systems' Hilbert spaces.
 
 The missing axiom here is **Axiom 3** which describes measurement. Here it is in full:
 > A measurement is a process in which information about the state of a physical
 > system is acquired by an observer. In quantum mechanics, the measurement of an 
-> observable $\bf A$ prepares and eigenstate of $\bf A$, and the observer learns
+> observable $\bf A$ prepares an eigenstate of $\bf A$, and the observer learns
 > the value of the corresponding eigenvalue. If the quantum state just prior to
 > the measurement is $|\psi\rangle$, then the outcome $a_n$ is obtained with
 > *a priori probability* $${\rm Prob}(a_n) = ||{\bf E}_n|\psi\rangle||^2 = \langle \psi |{\bf E}_n |\psi \rangle$$
-> (ed note: here ${\bf E}_n$ is the projector onto the eigenvectors, of $\bf A$ labeled,
+> (ed note: here ${\bf E}_n$ is the projector onto the eigenvectors of $\bf A$, labeled
 > by the outcome $n$.) if the outcome $a_n$ is attained, then the (normalized) quantum 
 > state just after the measurement is 
 > $$\frac{{\bf E}_n|\psi\rangle}{||{\bf E}_n |\psi\rangle ||}$$
@@ -44,16 +44,16 @@ the normal unitary dynamics of axiom 4?  All of this should make you a little un
 sort of ambiguities, there has always been a way to just make them work, when you 
 hit the real world of experiments.
 
-For the experts in this area, I'm sure what I am saying is naive, but
+For the experts in this area, I'm sure what I am saying is naïve, but
 I believe even they will have a feeling of encountering something that is somehow
 mysterious when encountering the measurement axiom. The measurement axiom is somehow
 how things become, how they transition into something more permanent, existing as
 *records* of *what happened*.
 
-There are a group of physicists, loosely we would call them quantum foundations 
+There are a group of physicists (or physicist-philosophers), loosely we would call them quantum foundations 
 researchers, who spend a lot of time thinking hard about quantum theory and what it
 means or what it tells us or how to live with quantum theory and not go insane.  What 
-is a measurement and how does it mesh with the other axioms of quantum theory is one 
+a measurement is and how it meshes with the other axioms of quantum theory is one 
 of the areas in which quantum founds folk have spent a lot of time investigating. I've 
 been lucky enough to work a bit on this back in my 
 [younger days](https://arxiv.org/abs/quant-ph/0304076). In my spare time, I still think 
@@ -126,6 +126,6 @@ needs to respect the Church, that we can get much of what we do by working in
 a larger state space.  And reasoning about foundations should be wary of this,
 maybe even going so far as to say that we should not make these separations.
 Down that path we may find the many-world interpretation of quantum theory,
-but thats another discussion of religion for another day.
+but that's another discussion of religion for another day.
 
 -*dmb*
